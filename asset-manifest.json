@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Reservify/static/css/main.8711ccfb.css",
+    "main.js": "/Reservify/static/js/main.d2f33b9f.js",
+    "static/media/hotel-2.jpg": "/Reservify/static/media/hotel-2.18ff47a31f471627c8bd.jpg",
+    "static/media/reserve-bg.jpg": "/Reservify/static/media/reserve-bg.d8c8686c649b83e40e69.jpg",
+    "static/media/room-1.jpg": "/Reservify/static/media/room-1.5670af63dc5a8a11270f.jpg",
+    "static/media/Reflex_Black.ttf": "/Reservify/static/media/Reflex_Black.c908118be7015429e4e1.ttf",
+    "static/media/logo.png": "/Reservify/static/media/logo.64f711c4b7bd699cd389.png",
+    "static/media/green-register.svg": "/Reservify/static/media/green-register.2ae830fb5c1fc6fc88a9223804abf73c.svg",
+    "static/media/green-welcome.svg": "/Reservify/static/media/green-welcome.a82050196d0e9944055c086f8bd0cfef.svg",
+    "index.html": "/Reservify/index.html",
+    "static/media/down-arrow.svg": "/Reservify/static/media/down-arrow.35ad5438f4d864f36a00.svg",
+    "main.8711ccfb.css.map": "/Reservify/static/css/main.8711ccfb.css.map",
+    "main.d2f33b9f.js.map": "/Reservify/static/js/main.d2f33b9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8711ccfb.css",
+    "static/js/main.d2f33b9f.js"
+  ]
+}
