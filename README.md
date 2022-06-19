@@ -15,6 +15,8 @@
 - To Add a new hotel.
 - To Delete a hotel.
 
+<img src="https://user-images.githubusercontent.com/45231276/174476501-bf7fe53b-600e-49b8-bbf3-2a0dff8bbebe.PNG" width="30%" /><img src="https://user-images.githubusercontent.com/45231276/174476521-2b06d033-4637-460e-a3a4-3703fb45adee.PNG" width="70%" />
+
 ## Built With
 
 > Front-end
